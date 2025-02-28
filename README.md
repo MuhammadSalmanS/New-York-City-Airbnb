@@ -4,7 +4,7 @@ This repository contains a Power BI report (new_york_dataset.pbix) that analyzes
 
 # File Information
 File Name: new_york_dataset.pbix
-Size: [Add file size here]
+Size: [3MB]
 Data Source: NYC Airbnb Open Data
 Tools Used: Power BI, DAX, Data Cleaning
 # Features
