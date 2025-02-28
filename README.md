@@ -1,4 +1,3 @@
-## New-York-City-Airbnb
 # NYC Airbnb Open Data - Power BI Report
 ## Overview
 This repository contains a Power BI report (new_york_dataset.pbix) that analyzes the New York City Airbnb Open Data. The report provides insights into pricing, availability, and neighborhood trends using data visualization.
